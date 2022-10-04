@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+.ipynb_checkpoints
+.pytest_cache
+__pycache__
+module/__pycache__
